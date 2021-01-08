@@ -8,7 +8,7 @@ namespace WorkingWithFile
         static void Main(string[] args)
         {
 
-            Files files = new Files(@"C:\Git\WorkingWithFileAtCSharp\WorkingWithFile\resource\file.txt", @"C:\Git\WorkingWithFileAtCSharp\WorkingWithFile\resource\");
+            Files files = new Files(@"C:\GitHub\CSharp\WorkingWithFiles\WorkingWithFile\resource\file.txt", @"C:\GitHub\CSharp\WorkingWithFiles\WorkingWithFile\resource\");
 
             try
             {
